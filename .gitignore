@@ -2,3 +2,5 @@
 __pycache__
 data/cache/
 data/raw/
+.env
+data-eng-jsg-1dde0e4ad0e7.json
