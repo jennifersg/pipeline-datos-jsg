@@ -3,4 +3,4 @@ fastf1
 pandas
 pyarrow
 google-cloud-storage
-python-dotenv
+python-dotenv 
